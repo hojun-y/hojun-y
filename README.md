@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋🏻 Hello! I'm Hojun Yoon
 
-<!--
-**hojun-y/hojun-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$$
+\Huge
+\boxed{
+\quad
+L_o = L_e + \int_{\mathcal{H}^2(\mathbf{n})} f_r \cdot L_i \cdot (\omega_i \cdot \mathbf{n}) \cdot d\omega_i
+\quad
+}
+$$
 
-Here are some ideas to get you started:
+$$
+\LARGE
+\mathcal{Render\ The\ Dream!}
+$$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+- :school: Undergraduate student @ Korea University
+- :book: Majoring in mathematics
+- :heart: I love *anything* related to computer graphics
