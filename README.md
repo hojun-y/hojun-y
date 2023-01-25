@@ -1,4 +1,4 @@
-## 👋🏻 Hello! I'm Hojun Yoon
+# 👋🏻 Hello! I'm Hojun Yoon
 
 $$
 \Huge
@@ -18,4 +18,10 @@ $$
 
 - :school: Undergraduate student @ Korea University
 - :book: Majoring in mathematics
-- :heart: I love *anything* related to computer graphics
+- 
+### :heart: Things that I love to study:
+- :framed_picture: Computer graphics & image synthesis
+- :robot: Machine learning & deep learning (especially generative models!)
+### :pencil2: Currently, I'm studying...
+- :scroll: Real analysis (It's fun but hard to understand!)
+- :fire: PyTorch framework
