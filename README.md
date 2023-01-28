@@ -1,10 +1,10 @@
 # 👋🏻 Hello! I'm Hojun Yoon
 
 <p align="center">
-  
-![Hojun's Github stats](https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=nightowl&border_radius=10#gh-dark-mode-only)
-![Hojun's Github stats](https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=buefy&border_radius=10#gh-light-mode-only)
-  
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=nightowl&border_radius=10"
+  alt="Hojun's Github stats"
+/>
 </p>
 
 <p align="center">
