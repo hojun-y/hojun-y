@@ -1,5 +1,20 @@
 # 👋🏻 Hello! I'm Hojun Yoon
 
+<p align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=nightowl&border_radius=10"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=buefy&border_radius=10"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=nightowl&border_radius=10" />
+</picture>
+</p>
+
+<p align="center">
 $$
 \Huge
 \boxed{
@@ -13,15 +28,17 @@ $$
 \LARGE
 \mathcal{Render\ The\ Dream!}
 $$
+</p>
 
 ***
 
 - :school: Undergraduate student @ Korea University
 - :book: Majoring in mathematics
-- 
+
 ### :heart: Things that I love to study:
 - :framed_picture: Computer graphics & image synthesis
 - :robot: Machine learning & deep learning (especially generative models!)
 ### :pencil2: Currently, I'm studying...
 - :scroll: Real analysis (It's fun but hard to understand!)
+- :pencil: Linear algebra
 - :fire: PyTorch framework
