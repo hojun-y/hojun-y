@@ -1,17 +1,10 @@
 # 👋🏻 Hello! I'm Hojun Yoon
 
 <p align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=nightowl&border_radius=10"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=buefy&border_radius=10"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=nightowl&border_radius=10" />
-</picture>
+  
+![Hojun's Github stats](https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=nightowl&border_radius=10#gh-dark-mode-only)
+![Hojun's Github stats](https://github-readme-stats.vercel.app/api?username=hojun-y&count_private=True&show_icons=True&hide=stars,contribs&theme=buefy&border_radius=10#gh-light-mode-only)
+  
 </p>
 
 <p align="center">
