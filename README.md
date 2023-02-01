@@ -25,7 +25,7 @@ $$
 
 ***
 
-- :school: Undergraduate student @ Korea University
+- :school: Undergraduate student (sophomore) @ Korea University
 - :book: Majoring in mathematics
 
 ### :heart: Things that I love to study:
